@@ -23,8 +23,6 @@ Building reliable web apps end‑to‑end · Curious about data apps & product U
 
 
 ### 📌 Featured projects
-- **Artisync (Django e‑commerce for artisans)** — ordering, ratings, payments (sandbox).
-Repo: https://github.com/rizz227/django-artisanShop-artisync
 - **Traineeship Management (Django)** — students, formations, roles, dashboards.
 Repo: https://github.com/rizz227/django_traineeship_management
 - **Sentiment Analysis Dashboard (Streamlit)** — interactive NLP dashboard.
