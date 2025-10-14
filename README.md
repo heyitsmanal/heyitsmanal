@@ -23,10 +23,13 @@ Building reliable web apps end‑to‑end · Curious about data apps & product U
 
 
 ### 📌 Featured projects
-- **Traineeship Management (Django)** — students, formations, roles, dashboards.
-Repo: https://github.com/rizz227/django_traineeship_management
-- **Sentiment Analysis Dashboard (Streamlit)** — interactive NLP dashboard.
-Repo: https://github.com/rizz227/sentiment-analys-dashboard
+- **Traineeship Management (Django)**.
+Repo: https://github.com/heyitsmanal/django_traineeship_management.git
+- **Sentiment Analysis Dashboard (Streamlit)**.
+Repo: https://github.com/heyitsmanal/sentiment-analys-dashboard.git
+- **cabinetmedical(dotnet)**.
+Repo: https://github.com/heyitsmanal/dotnet-cabinetmedical.git
+
 
 
 ### 🤝 Collaborating / Open to
