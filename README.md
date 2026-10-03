@@ -1,9 +1,9 @@
-
-# manal@github:~$
+```md
+<h1 align="center">manal@github:~$</h1>
 
 <p align="center">
   <strong>Full-Stack Developer</strong><br>
-  Java · Spring Boot · Quarkus · Django · React · React
+  Java · Spring Boot · Quarkus · Django · .NET · React
 </p>
 
 <p align="center">
@@ -18,14 +18,6 @@ I'm **Manal**, a Full-Stack Developer focused on building reliable web applicati
 
 I enjoy strengthening my back-end skills while also paying attention to UI/UX, testing, and deployment.
 
----
-
-## `~/` current-focus
-
-```text
-→ Solidifying back-end craftsmanship with Java, Spring Boot, and Django
-→ Shipping polished UI/UX and deployable demos
-→ Writing tests and CI workflows to improve quality
 ---
 
 ## `~/` current-focus
@@ -74,7 +66,11 @@ I enjoy strengthening my back-end skills while also paying attention to UI/UX, t
 ## `~/` contribution-calendar
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/heyitsmanal/heyitsmanal/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/heyitsmanal/heyitsmanal/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/heyitsmanal/heyitsmanal/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/heyitsmanal/heyitsmanal/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
 
 ---
@@ -85,21 +81,19 @@ I enjoy strengthening my back-end skills while also paying attention to UI/UX, t
   <img
     src="https://github-readme-stats.vercel.app/api?username=heyitsmanal&show_icons=true&hide_border=true&theme=transparent"
     height="165"
+    alt="GitHub stats"
   />
 
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=heyitsmanal&layout=compact&hide_border=true&theme=transparent"
     height="165"
+    alt="Top languages"
   />
 </p>
 
 ---
 
 ## `~/` selected-work
-
-```json
-{
-```
 
 ### Traineeship Management
 
@@ -128,10 +122,6 @@ Dashboard for sentiment-analysis work.
 Medical cabinet management application.
 
 [View repository](https://github.com/heyitsmanal/dotnet-cabinetmedical)
-
-```json
-}
-```
 
 ---
 
@@ -163,23 +153,3 @@ setup instructions, tests, and screenshots.
   <code>build → learn → improve → repeat</code>
 </p>
 ```
-
-For the full effect, I would also create this structure:
-
-```text
-heyitsmanal/
-│
-├── README.md
-│
-├── assets/
-│   ├── skill-radar.svg
-│   └── stack-radar.svg
-│
-└── .github/
-    └── workflows/
-        └── snake.yml
-```
-
-I’d make the two radar charts visually similar to hers, but based only on your confirmed stack. For example, one chart could be **Backend / Frontend / Data / Databases / Dev Tools**, while the second could show **Java / Python / C# / JavaScript / SQL**.
-
-The next useful step is for me to generate the actual `skill-radar.svg`, `stack-radar.svg`, and `snake.yml` files so you can drop them directly into your profile repo.
