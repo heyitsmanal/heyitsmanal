@@ -1,4 +1,4 @@
-```md
+
 # manal@github:~$
 
 <p align="center">
@@ -14,7 +14,7 @@
 
 ## `~/` whoami
 
-```bash
+
 $ cat about.txt
 ```
 
