@@ -1,66 +1,16 @@
-<h1 align="center">manal@github:~$</h1>
-
 <p align="center">
-  <strong>Full-Stack Developer</strong><br>
-  Java · Spring Boot · Quarkus · Django · .NET · React
+  <img src="./assets/hero.svg" width="100%" alt="Manal GitHub profile hero" />
 </p>
 
 <p align="center">
-  Building reliable web apps end-to-end · Curious about data apps & product UX
+  <img src="./assets/whoami.svg" width="49%" alt="Who am I" />
+  <img src="./assets/current-focus.svg" width="49%" alt="Current focus" />
 </p>
-
----
-
-## `~/` whoami
-
-I'm **Manal**, a Full-Stack Developer focused on building reliable web applications from back end to front end.
-
-I enjoy strengthening my back-end skills while also paying attention to UI/UX, testing, and deployment.
-
----
-
-## `~/` current-focus
-
-```text
-→ Solidifying back-end craftsmanship with Java, Spring Boot, and Django
-→ Shipping polished UI/UX and deployable demos
-→ Writing tests and CI workflows to improve quality
-```
-
----
-
-## `~/` toolbox
-
-### Backend
-
-`Java` · `Spring Boot` · `Quarkus` · `Python` · `Django` · `Django REST Framework` · `ASP.NET Core` · `Entity Framework`
-
-### Frontend
-
-`React` · `HTML` · `CSS` · `Bootstrap` · `Tailwind CSS`
-
-### Data
-
-`Pandas`
-
-### Databases
-
-`SQLite` · `PostgreSQL`
-
-### Tools
-
-`Git` · `GitHub` · `GitHub Actions` · `Docker`
-
----
-
-## `~/` skill-radar
 
 <p align="center">
-  <img src="./assets/skill-radar.svg" width="48%" alt="Skill radar" />
-  <img src="./assets/stack-radar.svg" width="48%" alt="Technology radar" />
+  <img src="./assets/toolbox.svg" width="49%" alt="Toolbox" />
+  <img src="./assets/skill-radar.svg" width="49%" alt="Skill radar" />
 </p>
-
----
 
 ## `~/` contribution-calendar
 
@@ -72,63 +22,18 @@ I enjoy strengthening my back-end skills while also paying attention to UI/UX, t
   </picture>
 </p>
 
----
-
 ## `~/` github-stats
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=heyitsmanal&show_icons=true&hide_border=true&theme=transparent"
-    height="165"
-    alt="GitHub stats"
-  />
-
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=heyitsmanal&layout=compact&hide_border=true&theme=transparent"
-    height="165"
-    alt="Top languages"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=heyitsmanal&show_icons=true&hide_border=true&theme=transparent" height="165" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heyitsmanal&layout=compact&hide_border=true&theme=transparent" height="165" alt="Top languages" />
 </p>
 
----
-
-## `~/` selected-work
-
-### Traineeship Management
-
-**Stack:** Django
-
-Web application for traineeship management.
-
-[View repository](https://github.com/heyitsmanal/django_traineeship_management)
-
----
-
-### Sentiment Analysis Dashboard
-
-**Stack:** Streamlit
-
-Dashboard for sentiment-analysis work.
-
-[View repository](https://github.com/heyitsmanal/sentiment-analys-dashboard)
-
----
-
-### Cabinet Medical
-
-**Stack:** .NET
-
-Medical cabinet management application.
-
-[View repository](https://github.com/heyitsmanal/dotnet-cabinetmedical)
-
----
+<p align="center">
+  <img src="./assets/projects.svg" width="100%" alt="Selected work" />
+</p>
 
 ## `~/` status
-
-```bash
-$ echo $OPEN_TO
-```
 
 ```text
 Internships
@@ -136,17 +41,6 @@ Junior software engineering roles
 Backend-leaning full-stack work
 Code reviews
 ```
-
----
-
-## `~/` notes
-
-```text
-See each repository README for architecture,
-setup instructions, tests, and screenshots.
-```
-
----
 
 <p align="center">
   <code>build → learn → improve → repeat</code>
