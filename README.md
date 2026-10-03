@@ -4,26 +4,17 @@
   TODO: replace the Website href="#" below with the real portfolio URL when it is ready.
 -->
 
-<table width="100%">
-<tr>
-<td width="52%" valign="middle">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/wave-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/wave-light.svg" />
+  <img align="right" src="./assets/wave-light.svg" width="430" alt="Animated wave" />
+</picture>
 
 # Manal
 
 ## Full-Stack Developer
 
-</td>
-<td width="48%" valign="middle" align="right">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/wave-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./assets/wave-light.svg" />
-  <img src="./assets/wave-light.svg" width="430" alt="Animated wave" />
-</picture>
-
-</td>
-</tr>
-</table>
+<br clear="both" />
 
 <p align="right">
   <a href="https://www.linkedin.com/in/manalabk"><img src="./assets/linkedin.svg" width="23" height="23" alt="LinkedIn" /></a>
@@ -33,28 +24,11 @@
   <a href="#"><img src="./assets/website.svg" width="23" height="23" alt="Website" /></a>
 </p>
 
-<table border="0" cellspacing="0" cellpadding="0">
-<tr>
-<td width="65%" valign="top">
-
-### <img src="./assets/whoami.svg" width="22" height="22" alt="" /> Who I Am
-
-I'm Manal, a Full-Stack Developer focused on building reliable web applications from back end to front end.
-
-I enjoy strengthening my back-end skills while also paying attention to UI/UX, testing, and deployment.
-
-</td>
-<td width="35%" valign="top">
-
-### <img src="./assets/focus.svg" width="22" height="22" alt="" /> Current Focus
-
-<img src="./assets/square.svg" width="9" height="9" alt="" />&nbsp; Solidifying back-end craftsmanship with Java, Spring Boot, and Django  
-<img src="./assets/square.svg" width="9" height="9" alt="" />&nbsp; Shipping polished UI/UX and deployable demos  
-<img src="./assets/square.svg" width="9" height="9" alt="" />&nbsp; Writing tests and CI workflows to improve quality
-
-</td>
-</tr>
-</table>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/about-focus-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/about-focus-light.svg" />
+  <img src="./assets/about-focus-light.svg" width="100%" alt="Who I Am and Current Focus" />
+</picture>
 
 <h2 align="center">Tech Toolbox</h2>
 
@@ -85,13 +59,14 @@ I enjoy strengthening my back-end skills while also paying attention to UI/UX, t
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="46" height="46" alt="GitHub" title="GitHub" />&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="46" height="46" alt="Docker" title="Docker" />
 </p>
+
 <br>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/heyitsmanal/heyitsmanal/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/heyitsmanal/heyitsmanal/output/github-contribution-grid-snake.svg" />
-    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/heyitsmanal/heyitsmanal/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/heyitsmanal/heyitsmanal/output/github-contribution-grid-snake-beige-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/heyitsmanal/heyitsmanal/output/github-contribution-grid-snake-beige.svg" />
+    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/heyitsmanal/heyitsmanal/output/github-contribution-grid-snake-beige.svg" />
   </picture>
 </p>
 
