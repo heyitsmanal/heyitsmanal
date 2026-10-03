@@ -3,7 +3,7 @@
 
 <p align="center">
   <strong>Full-Stack Developer</strong><br>
-  Java · Spring Boot · Quarkus · Django · .NET · React
+  Java · Spring Boot · Quarkus · Django · React · React
 </p>
 
 <p align="center">
