@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="590" height="430" viewBox="0 0 590 430">
+<style>.sans{font-family:Arial,Helvetica,sans-serif}.mono{font-family:ui-monospace,SFMono-Regular,Menlo,monospace}</style>
+<rect width="590" height="430" rx="22" fill="#ffffff" stroke="#e5e7eb"/>
+<rect x="24" y="24" width="38" height="34" rx="10" fill="#dcfce7"/>
+<text x="43" y="47" text-anchor="middle" class="sans" font-size="18" font-weight="700" fill="#15803d">◇</text>
+<text x="76" y="48" class="sans" font-size="25" font-weight="700" fill="#111827">toolbox</text>
+<rect x="24" y="78" width="100" height="74" rx="12" fill="#fff7ed" stroke="#e5e7eb"/>
+<text x="74.0" y="105" text-anchor="middle" class="sans" font-size="20" font-weight="700" fill="#111827">☕</text>
+<text x="74.0" y="130" text-anchor="middle" class="sans" font-size="12.5" font-weight="700" fill="#111827">Java</text>
+<rect x="136" y="78" width="100" height="74" rx="12" fill="#ecfdf5" stroke="#e5e7eb"/>
+<text x="186.0" y="105" text-anchor="middle" class="sans" font-size="20" font-weight="700" fill="#111827">🍃</text>
+<text x="186.0" y="130" text-anchor="middle" class="sans" font-size="12.5" font-weight="700" fill="#111827">Spring Boot</text>
+<rect x="248" y="78" width="100" height="74" rx="12" fill="#eff6ff" stroke="#e5e7eb"/>
+<text x="298.0" y="105" text-anchor="middle" class="sans" font-size="20" font-weight="700" fill="#111827">Q</text>
+<text x="298.0" y="130" text-anchor="middle" class="sans" font-size="12.5" font-weight="700" fill="#111827">Quarkus</text>
+<rect x="360" y="78" width="100" height="74" rx="12" fill="#fefce8" stroke="#e5e7eb"/>
+<text x="410.0" y="105" text-anchor="middle" class="sans" font-size="20" font-weight="700" fill="#111827">🐍</text>
+<text x="410.0" y="130" text-anchor="middle" class="sans" font-size="12.5" font-weight="700" fill="#111827">Python</text>
+<rect x="472" y="78" width="100" height="74" rx="12" fill="#ecfdf5" stroke="#e5e7eb"/>
+<text x="522.0" y="105" text-anchor="middle" class="sans" font-size="20" font-weight="700" fill="#111827">dj</text>
+<text x="522.0" y="130" text-anchor="middle" class="sans" font-size="12.5" font-weight="700" fill="#111827">Django</text>
+<rect x="24" y="166" width="100" height="74" rx="12" fill="#f3f4f6" stroke="#e5e7eb"/>
+<text x="74.0" y="193" text-anchor="middle" class="sans" font-size="20" font-weight="700" fill="#111827">DRF</text>
+<text x="74.0" y="218" text-anchor="middle" class="sans" font-size="12.5" font-weight="700" fill="#111827">DRF</text>
+<rect x="136" y="166" width="100" height="74" rx="12" fill="#f5f3ff" stroke="#e5e7eb"/>
+<text x="186.0" y="193" text-anchor="middle" class="sans" font-size="20" font-weight="700" fill="#111827">.NET</text>
+<text x="186.0" y="218" text-anchor="middle" class="sans" font-size="12.5" font-weight="700" fill="#111827">ASP.NET Core</text>
+<rect x="248" y="166" width="100" height="74" rx="12" fill="#f5f3ff" stroke="#e5e7eb"/>
+<text x="298.0" y="193" text-anchor="middle" class="sans" font-size="20" font-weight="700" fill="#111827">EF</text>
+<text x="298.0" y="218" text-anchor="middle" class="sans" font-size="12.5" font-weight="700" fill="#111827">Entity Framework</text>
+<rect x="360" y="166" width="100" height="74" rx="12" fill="#ecfeff" stroke="#e5e7eb"/>
+<text x="410.0" y="193" text-anchor="middle" class="sans" font-size="20" font-weight="700" fill="#111827">⚛</text>
+<text x="410.0" y="218" text-anchor="middle" class="sans" font-size="12.5" font-weight="700" fill="#111827">React</text>
+<rect x="472" y="166" width="100" height="74" rx="12" fill="#fff7ed" stroke="#e5e7eb"/>
+<text x="522.0" y="193" text-anchor="middle" class="sans" font-size="20" font-weight="700" fill="#111827"></></text>
+<text x="522.0" y="218" text-anchor="middle" class="sans" font-size="12.5" font-weight="700" fill="#111827">HTML/CSS</text>
+<rect x="24" y="254" width="100" height="74" rx="12" fill="#f5f3ff" stroke="#e5e7eb"/>
+<text x="74.0" y="281" text-anchor="middle" class="sans" font-size="20" font-weight="700" fill="#111827">B</text>
+<text x="74.0" y="306" text-anchor="middle" class="sans" font-size="12.5" font-weight="700" fill="#111827">Bootstrap</text>
+<rect x="136" y="254" width="100" height="74" rx="12" fill="#ecfeff" stroke="#e5e7eb"/>
+<text x="186.0" y="281" text-anchor="middle" class="sans" font-size="20" font-weight="700" fill="#111827">~</text>
+<text x="186.0" y="306" text-anchor="middle" class="sans" font-size="12.5" font-weight="700" fill="#111827">Tailwind</text>
+<rect x="248" y="254" width="100" height="74" rx="12" fill="#eff6ff" stroke="#e5e7eb"/>
+<text x="298.0" y="281" text-anchor="middle" class="sans" font-size="20" font-weight="700" fill="#111827">🐼</text>
+<text x="298.0" y="306" text-anchor="middle" class="sans" font-size="12.5" font-weight="700" fill="#111827">Pandas</text>
+<rect x="360" y="254" width="100" height="74" rx="12" fill="#f8fafc" stroke="#e5e7eb"/>
+<text x="410.0" y="281" text-anchor="middle" class="sans" font-size="20" font-weight="700" fill="#111827">SQL</text>
+<text x="410.0" y="306" text-anchor="middle" class="sans" font-size="12.5" font-weight="700" fill="#111827">SQLite</text>
+<rect x="472" y="254" width="100" height="74" rx="12" fill="#eff6ff" stroke="#e5e7eb"/>
+<text x="522.0" y="281" text-anchor="middle" class="sans" font-size="20" font-weight="700" fill="#111827">🐘</text>
+<text x="522.0" y="306" text-anchor="middle" class="sans" font-size="12.5" font-weight="700" fill="#111827">PostgreSQL</text>
+<rect x="24" y="342" width="100" height="74" rx="12" fill="#fff7ed" stroke="#e5e7eb"/>
+<text x="74.0" y="369" text-anchor="middle" class="sans" font-size="20" font-weight="700" fill="#111827">⑂</text>
+<text x="74.0" y="394" text-anchor="middle" class="sans" font-size="12.5" font-weight="700" fill="#111827">Git</text>
+<rect x="136" y="342" width="100" height="74" rx="12" fill="#f8fafc" stroke="#e5e7eb"/>
+<text x="186.0" y="369" text-anchor="middle" class="sans" font-size="20" font-weight="700" fill="#111827">🐙</text>
+<text x="186.0" y="394" text-anchor="middle" class="sans" font-size="12.5" font-weight="700" fill="#111827">GitHub</text>
+<rect x="248" y="342" width="100" height="74" rx="12" fill="#eff6ff" stroke="#e5e7eb"/>
+<text x="298.0" y="369" text-anchor="middle" class="sans" font-size="20" font-weight="700" fill="#111827">⚙</text>
+<text x="298.0" y="394" text-anchor="middle" class="sans" font-size="12.5" font-weight="700" fill="#111827">GitHub Actions</text>
+<rect x="360" y="342" width="100" height="74" rx="12" fill="#eff6ff" stroke="#e5e7eb"/>
+<text x="410.0" y="369" text-anchor="middle" class="sans" font-size="20" font-weight="700" fill="#111827">🐳</text>
+<text x="410.0" y="394" text-anchor="middle" class="sans" font-size="12.5" font-weight="700" fill="#111827">Docker</text>
+</svg>
