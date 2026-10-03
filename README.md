@@ -25,12 +25,17 @@
 ## `~/` github-stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=heyitsmanal&show_icons=true&hide_border=true&theme=transparent" height="165" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heyitsmanal&layout=compact&hide_border=true&theme=transparent" height="165" alt="Top languages" />
-</p>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=heyitsmanal&show_icons=true&hide_border=true&theme=transparent"
+    height="165"
+    alt="GitHub stats"
+  />
 
-<p align="center">
-  <img src="./assets/projects.svg" width="100%" alt="Selected work" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=heyitsmanal&layout=compact&hide_border=true&theme=transparent&hide=c,html,css&langs_count=6"
+    height="165"
+    alt="Top languages"
+  />
 </p>
 
 ## `~/` status
