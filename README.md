@@ -1,4 +1,3 @@
-```md
 <h1 align="center">manal@github:~$</h1>
 
 <p align="center">
@@ -152,4 +151,3 @@ setup instructions, tests, and screenshots.
 <p align="center">
   <code>build → learn → improve → repeat</code>
 </p>
-```
