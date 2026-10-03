@@ -14,8 +14,6 @@
 
 ## `~/` whoami
 
-
-$ cat about.txt
 ```
 
 I'm **Manal**, a Full-Stack Developer focused on building reliable web applications from back end to front end.
