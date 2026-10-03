@@ -1,31 +1,11 @@
-name: Generate contribution snake
+# Refresh the beige snake
 
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
+After uploading this version to your `heyitsmanal/heyitsmanal` profile repository:
 
-permissions:
-  contents: write
+1. Commit `.github/workflows/snake.yml` and the updated `README.md`.
+2. Open **Actions** → **Generate contribution snake**.
+3. Click **Run workflow** → **Run workflow**.
+4. Wait for the workflow to finish successfully.
+5. Refresh your profile. If GitHub/raw-content caching keeps the old image briefly, hard-refresh once.
 
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    timeout-minutes: 5
-
-    steps:
-      - name: Generate contribution snake
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - name: Publish snake to output branch
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+This version intentionally uses new output filenames (`...snake-beige.svg` and `...snake-beige-dark.svg`) so an older cached snake is not reused.
