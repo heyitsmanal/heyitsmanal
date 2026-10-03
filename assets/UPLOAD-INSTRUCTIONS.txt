@@ -1,0 +1,14 @@
+Upload the `assets` folder directly into the root of your GitHub profile repository:
+
+heyitsmanal/
+├── README.md
+└── assets/
+    ├── skill-radar.svg
+    └── stack-radar.svg
+
+Use these lines in your README:
+
+<p align="center">
+  <img src="./assets/skill-radar.svg" width="48%" alt="Skill radar" />
+  <img src="./assets/stack-radar.svg" width="48%" alt="Technology radar" />
+</p>
