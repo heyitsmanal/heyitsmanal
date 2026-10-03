@@ -14,12 +14,18 @@
 
 ## `~/` whoami
 
-```
-
 I'm **Manal**, a Full-Stack Developer focused on building reliable web applications from back end to front end.
 
 I enjoy strengthening my back-end skills while also paying attention to UI/UX, testing, and deployment.
 
+---
+
+## `~/` current-focus
+
+```text
+→ Solidifying back-end craftsmanship with Java, Spring Boot, and Django
+→ Shipping polished UI/UX and deployable demos
+→ Writing tests and CI workflows to improve quality
 ---
 
 ## `~/` current-focus
