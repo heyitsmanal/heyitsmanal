@@ -10,9 +10,8 @@
   <img align="right" src="./assets/wave-light.svg" width="430" alt="Animated wave" />
 </picture>
 
-# Manal
-
-## Full-Stack Developer
+<p><strong><font size="7">Manal</font></strong><br>
+<font size="5"><strong>Full-Stack Developer</strong></font></p>
 
 <br clear="both" />
 
@@ -32,25 +31,25 @@
 
 <h2 align="center">Tech Toolbox</h2>
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="46" height="46" alt="Java" title="Java" />&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="46" height="46" alt="Spring Boot" title="Spring Boot" />&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/quarkus/quarkus-original.svg" width="46" height="46" alt="Quarkus" title="Quarkus" />&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="46" height="46" alt="Python" title="Python" />&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="46" height="46" alt="Django" title="Django" />&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="46" height="46" alt="React" title="React" />&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" width="46" height="46" alt="Angular" title="Angular" />&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="46" height="46" alt="HTML" title="HTML" />
-  <br><br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="46" height="46" alt="CSS" title="CSS" />&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="46" height="46" alt="Bootstrap" title="Bootstrap" />&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="46" height="46" alt="Tailwind CSS" title="Tailwind CSS" />&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="46" height="46" alt="PostgreSQL" title="PostgreSQL" />&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="46" height="46" alt="SQLite" title="SQLite" />&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="46" height="46" alt="Git" title="Git" />&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="46" height="46" alt="GitHub" title="GitHub" />&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="46" height="46" alt="Docker" title="Docker" />
-</p>
+<div align="center">
+  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="46" height="46" alt="Java" /><br><sub>Java</sub></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="46" height="46" alt="Spring Boot" /><br><sub>Spring Boot</sub></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/quarkus/quarkus-original.svg" width="46" height="46" alt="Quarkus" /><br><sub>Quarkus</sub></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="46" height="46" alt="Python" /><br><sub>Python</sub></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="46" height="46" alt="Django" /><br><sub>Django</sub></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="46" height="46" alt="React" /><br><sub>React</sub></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" width="46" height="46" alt="Angular" /><br><sub>Angular</sub></span>
+  <br><br><br>
+  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="46" height="46" alt="HTML" /><br><sub>HTML</sub></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="46" height="46" alt="CSS" /><br><sub>CSS</sub></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="46" height="46" alt="Bootstrap" /><br><sub>Bootstrap</sub></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="46" height="46" alt="Tailwind CSS" /><br><sub>Tailwind CSS</sub></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="46" height="46" alt="PostgreSQL" /><br><sub>PostgreSQL</sub></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="46" height="46" alt="SQLite" /><br><sub>SQLite</sub></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="46" height="46" alt="Git" /><br><sub>Git</sub></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="46" height="46" alt="GitHub" /><br><sub>GitHub</sub></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="46" height="46" alt="Docker" /><br><sub>Docker</sub></span>
+</div>
 
 <p align="center">
   <picture>
