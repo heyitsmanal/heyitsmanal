@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="270" viewBox="0 0 1200 270">
+<style>.sans{font-family:Arial,Helvetica,sans-serif}</style>
+<rect width="1200" height="270" rx="22" fill="#ffffff" stroke="#e5e7eb"/>
+<rect x="24" y="22" width="38" height="34" rx="10" fill="#dcfce7"/>
+<text x="43" y="46" text-anchor="middle" class="sans" font-size="18" font-weight="700" fill="#15803d">□</text>
+<text x="76" y="47" class="sans" font-size="25" font-weight="700" fill="#111827">selected-work</text>
+
+<g class="sans">
+  <rect x="24" y="78" width="360" height="160" rx="16" fill="#fafafa" stroke="#e5e7eb"/>
+  <rect x="44" y="98" width="44" height="44" rx="12" fill="#f3e8ff"/>
+  <text x="66" y="127" text-anchor="middle" font-size="24" fill="#7c3aed">◇</text>
+  <text x="102" y="115" font-size="19" font-weight="700" fill="#111827">Traineeship Management</text>
+  <text x="102" y="141" font-size="14" fill="#6b7280">Web application for traineeship management.</text>
+  <text x="44" y="191" font-size="13" fill="#374151">Django · Python · MySQL</text>
+  <text x="44" y="218" font-size="13" fill="#7c3aed">github.com/heyitsmanal/django_traineeship_management</text>
+
+  <rect x="420" y="78" width="360" height="160" rx="16" fill="#fafafa" stroke="#e5e7eb"/>
+  <rect x="440" y="98" width="44" height="44" rx="12" fill="#dcfce7"/>
+  <text x="462" y="127" text-anchor="middle" font-size="24" fill="#16a34a">▥</text>
+  <text x="498" y="115" font-size="19" font-weight="700" fill="#111827">Sentiment Analysis Dashboard</text>
+  <text x="498" y="141" font-size="14" fill="#6b7280">Dashboard for sentiment-analysis work.</text>
+  <text x="440" y="191" font-size="13" fill="#374151">Streamlit</text>
+  <text x="440" y="218" font-size="13" fill="#7c3aed">github.com/heyitsmanal/sentiment-analys-dashboard</text>
+
+  <rect x="816" y="78" width="360" height="160" rx="16" fill="#fafafa" stroke="#e5e7eb"/>
+  <rect x="836" y="98" width="44" height="44" rx="12" fill="#fce7f3"/>
+  <text x="858" y="127" text-anchor="middle" font-size="24" fill="#db2777">+</text>
+  <text x="894" y="115" font-size="19" font-weight="700" fill="#111827">Cabinet Medical</text>
+  <text x="894" y="141" font-size="14" fill="#6b7280">Medical cabinet management application.</text>
+  <text x="836" y="191" font-size="13" fill="#374151">.NET</text>
+  <text x="836" y="218" font-size="13" fill="#7c3aed">github.com/heyitsmanal/dotnet-cabinetmedical</text>
+</g>
+</svg>

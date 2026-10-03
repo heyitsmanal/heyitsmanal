@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="590" height="250" viewBox="0 0 590 250">
+<style>
+.sans{font-family:Arial,Helvetica,sans-serif}.mono{font-family:ui-monospace,SFMono-Regular,Menlo,monospace}
+</style>
+<rect width="590" height="250" rx="22" fill="#ffffff" stroke="#e5e7eb"/>
+<rect x="24" y="24" width="38" height="34" rx="10" fill="#dcfce7"/>
+<text x="43" y="47" text-anchor="middle" class="mono" font-size="18" fill="#15803d">&gt;_</text>
+<text x="76" y="48" class="sans" font-size="25" font-weight="700" fill="#111827">whoami</text>
+<text x="28" y="96" class="sans" font-size="18" fill="#374151">
+  <tspan x="28" dy="0">I'm </tspan><tspan font-weight="700">Manal</tspan><tspan>, a Full-Stack Developer focused on</tspan>
+  <tspan x="28" dy="29">building reliable web applications from back end to front end.</tspan>
+  <tspan x="28" dy="44">I enjoy strengthening my back-end skills while also paying</tspan>
+  <tspan x="28" dy="29">attention to UI/UX, testing, and deployment.</tspan>
+</text>
+<path d="M520 173 C528 158,543 156,549 170 C554 181,541 190,531 202 C520 190,512 182,520 173Z" fill="none" stroke="#8b5cf6" stroke-width="3"/>
+<path d="M532 144 L532 158 M505 154 L514 164 M558 155 L549 165" stroke="#8b5cf6" stroke-width="3" stroke-linecap="round"/>
+</svg>
