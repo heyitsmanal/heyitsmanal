@@ -16,12 +16,12 @@
 
 <br clear="both" />
 
-<p align="right">
-  <a href="https://www.linkedin.com/in/manalabk"><img src="./assets/linkedin.svg" width="23" height="23" alt="LinkedIn" /></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:aboulakjammanal27@gmail.com"><img src="./assets/gmail.svg" width="23" height="23" alt="Email" /></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="#"><img src="./assets/website.svg" width="23" height="23" alt="Website" /></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/manalabk"><img src="./assets/linkedin.svg" width="32" height="32" alt="LinkedIn" /></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:aboulakjammanal27@gmail.com"><img src="./assets/gmail.svg" width="32" height="32" alt="Email" /></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="#"><img src="./assets/website.svg" width="32" height="32" alt="Website" /></a>
 </p>
 
 <picture>
@@ -31,14 +31,6 @@
 </picture>
 
 <h2 align="center">Tech Toolbox</h2>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/toolbox-accent-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/toolbox-accent-light.svg" />
-    <img src="./assets/toolbox-accent-light.svg" width="210" alt="" />
-  </picture>
-</p>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="46" height="46" alt="Java" title="Java" />&nbsp;&nbsp;&nbsp;
@@ -60,8 +52,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="46" height="46" alt="Docker" title="Docker" />
 </p>
 
-<br>
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/heyitsmanal/heyitsmanal/output/github-contribution-grid-snake-beige-dark.svg" />
@@ -69,5 +59,3 @@
     <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/heyitsmanal/heyitsmanal/output/github-contribution-grid-snake-beige.svg" />
   </picture>
 </p>
-
-<p align="center"><sub>build → learn → improve → repeat</sub></p>
