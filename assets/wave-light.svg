@@ -1,16 +1,9 @@
-<svg width="620" height="180" viewBox="0 0 620 180" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="g" x1="0" y1="0" x2="620" y2="0" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#6B625B"/>
-      <stop offset="0.5" stop-color="#B9A999"/>
-      <stop offset="1" stop-color="#6B625B"/>
-    </linearGradient>
-  </defs>
-  <path d="M8 92 C45 92 48 42 84 42 C120 42 122 138 160 138 C198 138 198 60 236 60 C274 60 274 118 312 118 C350 118 350 34 388 34 C426 34 426 145 464 145 C502 145 502 72 540 72 C572 72 584 93 612 93" stroke="#DED7CF" stroke-width="7" stroke-linecap="round"/>
-  <path d="M8 92 C45 92 48 42 84 42 C120 42 122 138 160 138 C198 138 198 60 236 60 C274 60 274 118 312 118 C350 118 350 34 388 34 C426 34 426 145 464 145 C502 145 502 72 540 72 C572 72 584 93 612 93" stroke="url(#g)" stroke-width="7" stroke-linecap="round" stroke-dasharray="92 520">
-    <animate attributeName="stroke-dashoffset" values="0;-612" dur="2.8s" repeatCount="indefinite"/>
+<svg width="760" height="220" viewBox="0 0 760 220" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M10 112 C56 112 60 48 104 48 C148 48 150 172 198 172 C246 172 246 74 294 74 C342 74 342 146 390 146 C438 146 438 38 486 38 C534 38 534 180 582 180 C630 180 630 86 678 86 C718 86 732 112 750 112" stroke="#E8E0DA" stroke-width="9" stroke-linecap="round"/>
+  <path d="M10 112 C56 112 60 48 104 48 C148 48 150 172 198 172 C246 172 246 74 294 74 C342 74 342 146 390 146 C438 146 438 38 486 38 C534 38 534 180 582 180 C630 180 630 86 678 86 C718 86 732 112 750 112" stroke="#6F5849" stroke-width="9" stroke-linecap="round" stroke-dasharray="118 640">
+    <animate attributeName="stroke-dashoffset" values="0;-750" dur="2.8s" repeatCount="indefinite"/>
   </path>
-  <circle r="6" fill="#6B625B">
-    <animateMotion dur="2.8s" repeatCount="indefinite" path="M8 92 C45 92 48 42 84 42 C120 42 122 138 160 138 C198 138 198 60 236 60 C274 60 274 118 312 118 C350 118 350 34 388 34 C426 34 426 145 464 145 C502 145 502 72 540 72 C572 72 584 93 612 93"/>
+  <circle r="7" fill="#6F5849">
+    <animateMotion dur="2.8s" repeatCount="indefinite" path="M10 112 C56 112 60 48 104 48 C148 48 150 172 198 172 C246 172 246 74 294 74 C342 74 342 146 390 146 C438 146 438 38 486 38 C534 38 534 180 582 180 C630 180 630 86 678 86 C718 86 732 112 750 112"/>
   </circle>
 </svg>
