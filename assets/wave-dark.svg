@@ -1,9 +1,0 @@
-<svg width="760" height="220" viewBox="0 0 760 220" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <path d="M10 112 C56 112 60 48 104 48 C148 48 150 172 198 172 C246 172 246 74 294 74 C342 74 342 146 390 146 C438 146 438 38 486 38 C534 38 534 180 582 180 C630 180 630 86 678 86 C718 86 732 112 750 112" stroke="#302824" stroke-width="9" stroke-linecap="round"/>
-  <path d="M10 112 C56 112 60 48 104 48 C148 48 150 172 198 172 C246 172 246 74 294 74 C342 74 342 146 390 146 C438 146 438 38 486 38 C534 38 534 180 582 180 C630 180 630 86 678 86 C718 86 732 112 750 112" stroke="#D7C4B6" stroke-width="9" stroke-linecap="round" stroke-dasharray="118 640">
-    <animate attributeName="stroke-dashoffset" values="0;-750" dur="2.8s" repeatCount="indefinite"/>
-  </path>
-  <circle r="7" fill="#D7C4B6">
-    <animateMotion dur="2.8s" repeatCount="indefinite" path="M10 112 C56 112 60 48 104 48 C148 48 150 172 198 172 C246 172 246 74 294 74 C342 74 342 146 390 146 C438 146 438 38 486 38 C534 38 534 180 582 180 C630 180 630 86 678 86 C718 86 732 112 750 112"/>
-  </circle>
-</svg>
