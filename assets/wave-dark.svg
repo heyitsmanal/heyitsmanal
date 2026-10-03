@@ -1,0 +1,16 @@
+<svg width="620" height="180" viewBox="0 0 620 180" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="620" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#D6CCC2"/>
+      <stop offset="0.5" stop-color="#9E8C7C"/>
+      <stop offset="1" stop-color="#D6CCC2"/>
+    </linearGradient>
+  </defs>
+  <path d="M8 92 C45 92 48 42 84 42 C120 42 122 138 160 138 C198 138 198 60 236 60 C274 60 274 118 312 118 C350 118 350 34 388 34 C426 34 426 145 464 145 C502 145 502 72 540 72 C572 72 584 93 612 93" stroke="#2A2522" stroke-width="7" stroke-linecap="round"/>
+  <path d="M8 92 C45 92 48 42 84 42 C120 42 122 138 160 138 C198 138 198 60 236 60 C274 60 274 118 312 118 C350 118 350 34 388 34 C426 34 426 145 464 145 C502 145 502 72 540 72 C572 72 584 93 612 93" stroke="url(#g)" stroke-width="7" stroke-linecap="round" stroke-dasharray="92 520">
+    <animate attributeName="stroke-dashoffset" values="0;-612" dur="2.8s" repeatCount="indefinite"/>
+  </path>
+  <circle r="6" fill="#D6CCC2">
+    <animateMotion dur="2.8s" repeatCount="indefinite" path="M8 92 C45 92 48 42 84 42 C120 42 122 138 160 138 C198 138 198 60 236 60 C274 60 274 118 312 118 C350 118 350 34 388 34 C426 34 426 145 464 145 C502 145 502 72 540 72 C572 72 584 93 612 93"/>
+  </circle>
+</svg>
