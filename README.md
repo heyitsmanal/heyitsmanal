@@ -1,8 +1,8 @@
 <img align="right" width="44%" src="./assets/wave-light.svg#gh-light-mode-only" alt="Animated decorative wave">
 <img align="right" width="44%" src="./assets/wave-dark.svg#gh-dark-mode-only" alt="Animated decorative wave">
 
-<h3>Manal</h3>
-<p><strong>Full-Stack Software Engineer</strong></p>
+<img width="52%" src="./assets/name-light.svg#gh-light-mode-only" alt="Manal — Full-Stack Software Engineer">
+<img width="52%" src="./assets/name-dark.svg#gh-dark-mode-only" alt="Manal — Full-Stack Software Engineer">
 
 <a href="https://www.linkedin.com/in/manalabk/" title="LinkedIn"><img src="./assets/linkedin.svg" width="40" height="40" alt="LinkedIn"></a>
 &nbsp;&nbsp;
@@ -16,12 +16,8 @@
 
 <br>
 
-<img align="left" width="49%" src="./assets/about-left-light.svg#gh-light-mode-only" alt="Who I Am">
-<img align="left" width="49%" src="./assets/about-left-dark.svg#gh-dark-mode-only" alt="Who I Am">
-<img align="right" width="49%" src="./assets/focus-right-light.svg#gh-light-mode-only" alt="Current Focus">
-<img align="right" width="49%" src="./assets/focus-right-dark.svg#gh-dark-mode-only" alt="Current Focus">
-
-<br clear="both">
+<img width="100%" src="./assets/about-focus-light.svg#gh-light-mode-only" alt="Who I Am and Current Focus">
+<img width="100%" src="./assets/about-focus-dark.svg#gh-dark-mode-only" alt="Who I Am and Current Focus">
 
 <br>
 
