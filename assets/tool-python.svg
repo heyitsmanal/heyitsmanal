@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 108" role="img" aria-label="Python">
   <style>
-    .box{fill:#fbfcfd;stroke:#dbe2ea;stroke-width:1}
+    .box{fill:#f1f3f5;stroke:#d5d9df;stroke-width:1}
     .label{font:600 14px Arial,sans-serif;fill:#172033}
-    @media (prefers-color-scheme: dark){.box{fill:#fbfcfd;stroke:#dbe2ea}.label{fill:#f0f3f6}}
+    @media (prefers-color-scheme: dark){.box{fill:#f1f3f5;stroke:#d5d9df}.label{fill:#f0f3f6}}
   </style>
   <rect class="box" x="30" y="4" width="60" height="60" rx="14"/>
   <svg x="42" y="16" width="36" height="36" viewBox="0 0 128 128" preserveAspectRatio="xMidYMid meet">
