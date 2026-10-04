@@ -1,6 +1,6 @@
-<img align="right" width="43%" src="./assets/wave-light.svg#gh-light-mode-only" alt="Animated network mesh wave">
-<img align="right" width="43%" src="./assets/wave-dark.svg#gh-dark-mode-only" alt="Animated network mesh wave">
-<img width="52%" src="./assets/name-light.svg#gh-light-mode-only" alt="Manal — Full-Stack Software Engineer"><img width="52%" src="./assets/name-dark.svg#gh-dark-mode-only" alt="Manal — Full-Stack Software Engineer">
+<p>
+<img width="52%" src="./assets/name-light.svg#gh-light-mode-only" alt="Manal — Full-Stack Software Engineer"><img width="43%" src="./assets/wave-light.svg#gh-light-mode-only" alt="Animated network mesh wave"><img width="52%" src="./assets/name-dark.svg#gh-dark-mode-only" alt="Manal — Full-Stack Software Engineer"><img width="43%" src="./assets/wave-dark.svg#gh-dark-mode-only" alt="Animated network mesh wave">
+</p>
 
 <a href="https://www.linkedin.com/in/manalabk/" title="LinkedIn"><img src="./assets/linkedin.svg" width="40" height="40" alt="LinkedIn"></a>
 &nbsp;&nbsp;
@@ -9,8 +9,6 @@
 <img src="./assets/website.svg" width="40" height="40" alt="Portfolio — coming soon" title="Portfolio — coming soon">
 &nbsp;&nbsp;
 <a href="https://github.com/heyitsmanal" title="GitHub"><img src="./assets/github.svg" width="40" height="40" alt="GitHub"></a>
-
-<br clear="both">
 
 <br>
 
