@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 170" role="img" aria-label="Manal — Full-Stack Software Engineer">
-  <style>
-    .name{font:700 108px Arial,sans-serif;fill:#f0f3f6;letter-spacing:-4px}
-    .role{font:700 27px Arial,sans-serif;fill:#b8c0cc}
-  </style>
-  <text x="0" y="104" class="name">Manal</text>
-  <text x="4" y="151" class="role">Full-Stack Software Engineer</text>
-</svg>
