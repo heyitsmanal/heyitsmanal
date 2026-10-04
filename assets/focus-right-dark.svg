@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 570 230">
-<style>.h{font:700 28px Arial,sans-serif;fill:#f0f3f6}.b{font:20px Arial,sans-serif;fill:#b8c0cc}.sq{fill:none;stroke:#c4a38d;stroke-width:2}.ico{stroke:#c4a38d;stroke-width:3;fill:none;stroke-linecap:round;stroke-linejoin:round}</style>
-<circle cx="38" cy="38" r="31" fill="#25211f"/><circle cx="38" cy="38" r="13" class="ico"/><circle cx="38" cy="38" r="6" class="ico"/><path d="M47 29l9-9M49 20h7v7" class="ico"/>
-<text x="86" y="47" class="h">Current Focus</text>
-<rect x="12" y="88" width="9" height="9" rx="1" class="sq"/><text x="48" y="99" class="b">Strengthening back-end engineering with Java,</text><text x="48" y="128" class="b">Spring Boot, and Quarkus</text>
-<rect x="12" y="154" width="9" height="9" rx="1" class="sq"/><text x="48" y="165" class="b">Building polished full-stack experiences</text>
-<rect x="12" y="204" width="9" height="9" rx="1" class="sq"/><text x="48" y="215" class="b">Improving testing, CI/CD, and deployment quality</text>
-</svg>
