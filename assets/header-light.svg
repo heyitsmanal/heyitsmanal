@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1180 245">
+ <style>.name{font:700 68px Arial,sans-serif;fill:#172033}.role{font:700 39px Arial,sans-serif;fill:#596579}</style>
+ <text x="0" y="78" class="name">Manal</text>
+ <text x="0" y="130" class="role">Full-Stack Developer</text>
+ <image href="./linkedin.svg" x="0" y="158" width="42" height="42"/>
+ <image href="./gmail.svg" x="72" y="158" width="42" height="42"/>
+ <image href="./website.svg" x="144" y="158" width="42" height="42"/>
+ <image href="./github.svg" x="216" y="158" width="42" height="42"/>
+ <image href="./wave-light.svg" x="635" y="12" width="535" height="140"/>
+</svg>

@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1180 255">
+ <style>
+  .h{font:700 27px Arial,sans-serif;fill:#f0f3f6}.b{font:20px Arial,sans-serif;fill:#b8c0cc}
+  .sq{fill:none;stroke:#8a705f;stroke-width:2}.ico{stroke:#7b5d49;stroke-width:3;fill:none;stroke-linecap:round;stroke-linejoin:round}
+ </style>
+ <g transform="translate(4 18)">
+  <circle cx="34" cy="34" r="31" fill="#26282b"/>
+  <circle cx="34" cy="27" r="9" class="ico"/><path d="M19 52c2-10 8-14 15-14s13 4 15 14" class="ico"/>
+  <text x="82" y="43" class="h">Who I Am</text>
+  <text x="8" y="98" class="b">I’m Manal, a Full-Stack Developer focused on building reliable</text>
+  <text x="8" y="128" class="b">web applications from back end to front end.</text>
+  <text x="8" y="176" class="b">I enjoy strengthening my back-end skills while also paying attention</text>
+  <text x="8" y="206" class="b">to UI/UX, testing, and deployment.</text>
+ </g>
+ <g transform="translate(660 18)">
+  <circle cx="34" cy="34" r="31" fill="#26282b"/>
+  <circle cx="34" cy="34" r="13" class="ico"/><circle cx="34" cy="34" r="6" class="ico"/><path d="M43 25l9-9M45 16h7v7" class="ico"/>
+  <text x="82" y="43" class="h">Current Focus</text>
+  <rect x="12" y="86" width="9" height="9" rx="1" class="sq"/><text x="48" y="96" class="b">Solidifying back-end craftsmanship</text>
+  <text x="48" y="126" class="b">with Java, Spring Boot, and Django</text>
+  <rect x="12" y="155" width="9" height="9" rx="1" class="sq"/><text x="48" y="165" class="b">Shipping polished UI/UX and deployable demos</text>
+  <rect x="12" y="205" width="9" height="9" rx="1" class="sq"/><text x="48" y="215" class="b">Writing tests and CI workflows to improve quality</text>
+ </g>
+ <line x1="0" y1="250" x2="1180" y2="250" stroke="#3a3f45"/>
+</svg>
