@@ -1,5 +1,5 @@
-<img align="right" width="44%" src="./assets/wave-light.svg#gh-light-mode-only" alt="Animated decorative wave">
-<img align="right" width="44%" src="./assets/wave-dark.svg#gh-dark-mode-only" alt="Animated decorative wave">
+<img align="right" width="49%" src="./assets/wave-light.svg#gh-light-mode-only" alt="Animated decorative wave">
+<img align="right" width="49%" src="./assets/wave-dark.svg#gh-dark-mode-only" alt="Animated decorative wave">
 
 <img width="52%" src="./assets/name-light.svg#gh-light-mode-only" alt="Manal — Full-Stack Software Engineer">
 <img width="52%" src="./assets/name-dark.svg#gh-dark-mode-only" alt="Manal — Full-Stack Software Engineer">
