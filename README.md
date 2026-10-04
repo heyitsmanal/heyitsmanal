@@ -36,9 +36,6 @@ Core technologies I currently work with
 <br><br>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/heyitsmanal/heyitsmanal/output/github-contribution-grid-snake-dark.svg?v=slate-blue">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/heyitsmanal/heyitsmanal/output/github-contribution-grid-snake.svg?v=slate-blue">
-    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/heyitsmanal/heyitsmanal/output/github-contribution-grid-snake.svg?v=slate-blue">
-  </picture>
+  <img width="90%" src="./assets/butterfly-light.svg#gh-light-mode-only" alt="Animated butterfly">
+  <img width="90%" src="./assets/butterfly-dark.svg#gh-dark-mode-only" alt="Animated butterfly">
 </p>
