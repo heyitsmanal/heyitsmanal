@@ -22,7 +22,8 @@
 <br>
 
 <br><br>
-<h3>▱ &nbsp; Tech Toolbox</h3>
+<img width="100%" src="./assets/toolbox-title-light.svg#gh-light-mode-only" alt="Tech Toolbox">
+<img width="100%" src="./assets/toolbox-title-dark.svg#gh-dark-mode-only" alt="Tech Toolbox">
 Core technologies I currently work with
 <br><br>
 
