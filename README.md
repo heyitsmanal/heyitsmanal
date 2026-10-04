@@ -1,8 +1,8 @@
 <img align="right" width="44%" src="./assets/wave-light.svg#gh-light-mode-only" alt="Animated decorative wave">
 <img align="right" width="44%" src="./assets/wave-dark.svg#gh-dark-mode-only" alt="Animated decorative wave">
 
-# Manal
-## Full-Stack Software Engineer
+<h3>Manal</h3>
+<p><strong>Full-Stack Software Engineer</strong></p>
 
 <a href="https://www.linkedin.com/in/manalabk/" title="LinkedIn"><img src="./assets/linkedin.svg" width="40" height="40" alt="LinkedIn"></a>
 &nbsp;&nbsp;
@@ -25,7 +25,7 @@
 
 <br>
 
-## ▱ &nbsp; Tech Toolbox
+<h3>▱ &nbsp; Tech Toolbox</h3>
 Core technologies I currently work with
 
 <p align="center">
