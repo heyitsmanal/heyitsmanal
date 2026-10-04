@@ -23,8 +23,8 @@
 
 <br><br>
 <h3>▱ &nbsp; Tech Toolbox</h3>
-<br>
 Core technologies I currently work with
+<br><br>
 
 <br>
 
