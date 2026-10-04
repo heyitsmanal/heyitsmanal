@@ -4,11 +4,7 @@
 
 <a href="https://www.linkedin.com/in/manalabk/" title="LinkedIn"><img src="./assets/linkedin.svg" width="40" height="40" alt="LinkedIn"></a>
 &nbsp;&nbsp;
-<a href="mailto:aboulakjammanal27@gmail.com" title="Email"><img src="./assets/gmail.svg" width="40" height="40" alt="Email"></a>
-&nbsp;&nbsp;
 <img src="./assets/website.svg" width="40" height="40" alt="Portfolio — coming soon" title="Portfolio — coming soon">
-&nbsp;&nbsp;
-<a href="https://github.com/heyitsmanal" title="GitHub"><img src="./assets/github.svg" width="40" height="40" alt="GitHub"></a>
 
 <br>
 
