@@ -30,28 +30,10 @@ Core technologies I currently work with
 
 <div align="center">
 
-<p>
-  <span style="display:inline-block;width:112px;text-align:center;vertical-align:top;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="50" alt="Java"><br><sub><b>Java</b></sub></span>&nbsp;&nbsp;
-  <span style="display:inline-block;width:112px;text-align:center;vertical-align:top;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="50" alt="Spring Boot"><br><sub><b>Spring Boot</b></sub></span>&nbsp;&nbsp;
-  <span style="display:inline-block;width:112px;text-align:center;vertical-align:top;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/quarkus/quarkus-original.svg" width="50" alt="Quarkus"><br><sub><b>Quarkus</b></sub></span>&nbsp;&nbsp;
-  <span style="display:inline-block;width:112px;text-align:center;vertical-align:top;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" alt="Python"><br><sub><b>Python</b></sub></span>&nbsp;&nbsp;
-  <span style="display:inline-block;width:112px;text-align:center;vertical-align:top;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="50" alt="Django"><br><sub><b>Django</b></sub></span>&nbsp;&nbsp;
-  <span style="display:inline-block;width:112px;text-align:center;vertical-align:top;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="50" alt="React"><br><sub><b>React</b></sub></span>&nbsp;&nbsp;
-  <span style="display:inline-block;width:112px;text-align:center;vertical-align:top;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="50" alt="Angular"><br><sub><b>Angular</b></sub></span>&nbsp;&nbsp;
-  <span style="display:inline-block;width:112px;text-align:center;vertical-align:top;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="50" alt="HTML"><br><sub><b>HTML</b></sub></span>
-</p>
+<img src="./assets/tool-java.svg" width="12%" alt="Java"><img src="./assets/tool-spring.svg" width="12%" alt="Spring Boot"><img src="./assets/tool-quarkus.svg" width="12%" alt="Quarkus"><img src="./assets/tool-python.svg" width="12%" alt="Python"><img src="./assets/tool-django.svg" width="12%" alt="Django"><img src="./assets/tool-react.svg" width="12%" alt="React"><img src="./assets/tool-angular.svg" width="12%" alt="Angular"><img src="./assets/tool-html.svg" width="12%" alt="HTML">
 
 <br>
 
-<p>
-  <span style="display:inline-block;width:112px;text-align:center;vertical-align:top;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="50" alt="CSS"><br><sub><b>CSS</b></sub></span>&nbsp;&nbsp;
-  <span style="display:inline-block;width:112px;text-align:center;vertical-align:top;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="50" alt="Bootstrap"><br><sub><b>Bootstrap</b></sub></span>&nbsp;&nbsp;
-  <span style="display:inline-block;width:112px;text-align:center;vertical-align:top;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="50" alt="PostgreSQL"><br><sub><b>PostgreSQL</b></sub></span>&nbsp;&nbsp;
-  <span style="display:inline-block;width:112px;text-align:center;vertical-align:top;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="50" alt="SQLite"><br><sub><b>SQLite</b></sub></span>&nbsp;&nbsp;
-  <span style="display:inline-block;width:112px;text-align:center;vertical-align:top;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50" alt="Git"><br><sub><b>Git</b></sub></span>&nbsp;&nbsp;
-  <span style="display:inline-block;width:112px;text-align:center;vertical-align:top;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="50" alt="GitHub"><br><sub><b>GitHub</b></sub></span>&nbsp;&nbsp;
-  <span style="display:inline-block;width:112px;text-align:center;vertical-align:top;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="50" alt="Docker"><br><sub><b>Docker</b></sub></span>&nbsp;&nbsp;
-  <span style="display:inline-block;width:112px;text-align:center;vertical-align:top;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" width="50" alt="Kubernetes"><br><sub><b>Kubernetes</b></sub></span>
-</p>
+<img src="./assets/tool-css.svg" width="12%" alt="CSS"><img src="./assets/tool-bootstrap.svg" width="12%" alt="Bootstrap"><img src="./assets/tool-postgresql.svg" width="12%" alt="PostgreSQL"><img src="./assets/tool-sqlite.svg" width="12%" alt="SQLite"><img src="./assets/tool-git.svg" width="12%" alt="Git"><img src="./assets/tool-github.svg" width="12%" alt="GitHub"><img src="./assets/tool-docker.svg" width="12%" alt="Docker"><img src="./assets/tool-kubernetes.svg" width="12%" alt="Kubernetes">
 
 </div>
