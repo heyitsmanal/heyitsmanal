@@ -35,3 +35,13 @@ Core technologies I currently work with
 <img src="./assets/tool-css.svg" width="10.8%" alt="CSS"><img src="./assets/tool-bootstrap.svg" width="10.8%" alt="Bootstrap"><img src="./assets/tool-postgresql.svg" width="10.8%" alt="PostgreSQL"><img src="./assets/tool-sqlite.svg" width="10.8%" alt="SQLite"><img src="./assets/tool-git.svg" width="10.8%" alt="Git"><img src="./assets/tool-github.svg" width="10.8%" alt="GitHub"><img src="./assets/tool-docker.svg" width="10.8%" alt="Docker"><img src="./assets/tool-kubernetes.svg" width="10.8%" alt="Kubernetes">
 </div>
 </div>
+
+<br><br>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/heyitsmanal/heyitsmanal/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/heyitsmanal/heyitsmanal/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/heyitsmanal/heyitsmanal/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
