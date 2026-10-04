@@ -1,18 +1,3 @@
-<!-- GitHub profile README for github.com/heyitsmanal -->
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/header-light.svg">
-  <img src="./assets/header-light.svg" width="100%" alt="Manal — Full-Stack Developer">
-</picture>
-
-<p>
-  <a href="https://www.linkedin.com/in/manalabk"><img src="./assets/linkedin.svg" width="1" height="1" alt="LinkedIn"></a>
-  <a href="mailto:aboulakjammanal27@gmail.com"><img src="./assets/gmail.svg" width="1" height="1" alt="Email"></a>
-  <a href="#"><img src="./assets/website.svg" width="1" height="1" alt="Website"></a>
-  <a href="https://github.com/heyitsmanal"><img src="./assets/github.svg" width="1" height="1" alt="GitHub"></a>
-</p>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/header-light.svg">
