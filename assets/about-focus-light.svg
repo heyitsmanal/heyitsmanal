@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1180 245" role="img" aria-label="Who I Am and Current Focus">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1180 540" role="img" aria-label="Who I Am and Current Focus">
   <style>
     .h{font:700 27px Arial,sans-serif;fill:#172033}
     .b{font:20px Arial,sans-serif;fill:#596579}
@@ -15,7 +15,7 @@
     <text x="8" y="176" class="b">I enjoy strengthening my back-end skills while also paying attention</text>
     <text x="8" y="206" class="b">to UI/UX, testing, and deployment.</text>
   </g>
-  <g transform="translate(660 18)">
+  <g transform="translate(4 300)">
     <circle cx="34" cy="34" r="31" fill="#DCE6EE"/>
     <circle cx="34" cy="34" r="13" class="ico"/>
     <circle cx="34" cy="34" r="6" class="ico"/>
