@@ -13,7 +13,7 @@ permissions:
 
 jobs:
   generate:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     timeout-minutes: 10
 
     steps:
@@ -26,9 +26,15 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg {"palette":"github-dark","color_snake":"#8FB3CC","color_dots":["#1E2A33","#314657","#4D6C83","#6D91A9","#8FB3CC"]}
 
       - name: Publish snake to output branch
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          build_dir: dist
-          branch: output
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          cd dist
+          git init
+          git checkout -b output
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add .
+          git commit -m "Update contribution snake"
+          git remote add origin "https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git"
+          git push --force origin output
