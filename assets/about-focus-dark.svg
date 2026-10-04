@@ -2,11 +2,11 @@
   <style>
     .h{font:700 27px Arial,sans-serif;fill:#f0f3f6}
     .b{font:20px Arial,sans-serif;fill:#b8c0cc}
-    .sq{fill:none;stroke:#c4a38d;stroke-width:2}
-    .ico{stroke:#c4a38d;stroke-width:3;fill:none;stroke-linecap:round;stroke-linejoin:round}
+    .sq{fill:none;stroke:#8FB3CC;stroke-width:2}
+    .ico{stroke:#8FB3CC;stroke-width:3;fill:none;stroke-linecap:round;stroke-linejoin:round}
   </style>
   <g transform="translate(4 18)">
-    <circle cx="34" cy="34" r="31" fill="#25211f"/>
+    <circle cx="34" cy="34" r="31" fill="#1E2A33"/>
     <circle cx="34" cy="27" r="9" class="ico"/>
     <path d="M19 52c2-10 8-14 15-14s13 4 15 14" class="ico"/>
     <text x="82" y="43" class="h">Who I Am</text>
@@ -16,7 +16,7 @@
     <text x="8" y="206" class="b">to UI/UX, testing, and deployment.</text>
   </g>
   <g transform="translate(660 18)">
-    <circle cx="34" cy="34" r="31" fill="#25211f"/>
+    <circle cx="34" cy="34" r="31" fill="#1E2A33"/>
     <circle cx="34" cy="34" r="13" class="ico"/>
     <circle cx="34" cy="34" r="6" class="ico"/>
     <path d="M43 25l9-9M45 16h7v7" class="ico"/>
