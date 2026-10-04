@@ -1,23 +1,59 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 145" role="img" aria-label="Animated decorative wave">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 165" role="img" aria-label="Animated network mesh wave">
   <defs>
-    <linearGradient id="waveDark" x1="0" x2="1">
-      <stop offset="0%" stop-color="#b89279"/>
-      <stop offset="18%" stop-color="#75675f"/>
-      <stop offset="72%" stop-color="#75675f"/>
-      <stop offset="84%" stop-color="#d2ad95"/>
-      <stop offset="100%" stop-color="#75675f"/>
+    <linearGradient id="meshDark" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#1E2A33" stop-opacity="0.08"/>
+      <stop offset="18%" stop-color="#A9C7DA" stop-opacity="0.48"/>
+      <stop offset="50%" stop-color="#A9C7DA" stop-opacity="0.92"/>
+      <stop offset="82%" stop-color="#A9C7DA" stop-opacity="0.58"/>
+      <stop offset="100%" stop-color="#1E2A33" stop-opacity="0.08"/>
     </linearGradient>
+    <linearGradient id="networkDark" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#A9C7DA" stop-opacity="0.14"/>
+      <stop offset="50%" stop-color="#A9C7DA" stop-opacity="0.34"/>
+      <stop offset="100%" stop-color="#A9C7DA" stop-opacity="0.14"/>
+    </linearGradient>
+    <filter id="glowDark" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
   </defs>
-  <path
-    d="M18 54 C55 54 59 7 91 7 C127 7 126 102 166 102 C203 102 204 30 241 30 C279 30 279 90 316 90 C355 90 358 17 394 17 C429 17 425 118 469 118 C505 118 501 48 542 48"
-    fill="none"
-    stroke="url(#waveDark)"
-    stroke-width="7"
-    stroke-linecap="round"
-    pathLength="100"
-    stroke-dasharray="100"
-    stroke-dashoffset="100">
-    <animate attributeName="stroke-dashoffset" values="100;0;0" keyTimes="0;0.72;1" dur="3.4s" repeatCount="indefinite"/>
-    <animate attributeName="opacity" values="0.25;1;1" keyTimes="0;0.35;1" dur="3.4s" repeatCount="indefinite"/>
+
+  <g opacity="0.78">
+    <path d="M18 36 L72 26 L118 60 L170 74 L228 48 L278 106 L334 88 L389 44 L446 66 L495 28 L548 58 L600 74" stroke="url(#networkDark)" stroke-width="1.3" fill="none"/>
+    <path d="M18 132 L74 122 L122 144 L176 102 L228 110 L281 138 L336 120 L392 136 L446 114 L495 126 L548 92 L600 104" stroke="url(#networkDark)" stroke-width="1.3" fill="none"/>
+    <path d="M72 26 L78 76 L118 60 L122 144 M170 74 L176 102 M228 48 L228 110 M278 106 L281 138 M334 88 L336 120 M389 44 L392 136 M446 66 L446 114 M495 28 L495 126 M548 58 L548 92" stroke="url(#networkDark)" stroke-width="1.05" fill="none"/>
+  </g>
+
+  <g opacity="0.95">
+    <path d="M0 109 C50 132 88 76 124 64 C165 50 190 128 236 126 C284 124 305 76 345 63 C389 48 433 109 470 111 C517 113 558 72 620 82" stroke="url(#meshDark)" stroke-width="1.65" fill="none"/>
+    <path d="M0 113 C50 136 88 80 124 68 C165 54 190 132 236 130 C284 128 305 80 345 67 C389 52 433 113 470 115 C517 117 558 76 620 86" stroke="url(#meshDark)" stroke-width="1.65" fill="none" opacity="0.95"/>
+    <path d="M0 117 C50 140 88 84 124 72 C165 58 190 136 236 134 C284 132 305 84 345 71 C389 56 433 117 470 119 C517 121 558 80 620 90" stroke="url(#meshDark)" stroke-width="1.65" fill="none" opacity="0.9"/>
+    <path d="M0 121 C50 144 88 88 124 76 C165 62 190 140 236 138 C284 136 305 88 345 75 C389 60 433 121 470 123 C517 125 558 84 620 94" stroke="url(#meshDark)" stroke-width="1.65" fill="none" opacity="0.84"/>
+    <path d="M0 125 C50 148 88 92 124 80 C165 66 190 144 236 142 C284 140 305 92 345 79 C389 64 433 125 470 127 C517 129 558 88 620 98" stroke="url(#meshDark)" stroke-width="1.65" fill="none" opacity="0.78"/>
+    <path d="M0 129 C50 152 88 96 124 84 C165 70 190 148 236 146 C284 144 305 96 345 83 C389 68 433 129 470 131 C517 133 558 92 620 102" stroke="url(#meshDark)" stroke-width="1.65" fill="none" opacity="0.72"/>
+    <path d="M0 105 C50 128 88 72 124 60 C165 46 190 124 236 122 C284 120 305 72 345 59 C389 44 433 105 470 107 C517 109 558 68 620 78" stroke="url(#meshDark)" stroke-width="1.65" fill="none" opacity="0.72"/>
+    <path d="M0 101 C50 124 88 68 124 56 C165 42 190 120 236 118 C284 116 305 68 345 55 C389 40 433 101 470 103 C517 105 558 64 620 74" stroke="url(#meshDark)" stroke-width="1.65" fill="none" opacity="0.64"/>
+  </g>
+
+  <path d="M0 115 C50 138 88 82 124 70 C165 56 190 134 236 132 C284 130 305 82 345 69 C389 54 433 115 470 117 C517 119 558 78 620 88"
+        stroke="#A9C7DA" stroke-width="2.5" fill="none" stroke-linecap="round" filter="url(#glowDark)"
+        pathLength="100" stroke-dasharray="9 91" stroke-dashoffset="100">
+    <animate attributeName="stroke-dashoffset" from="100" to="0" dur="6s" repeatCount="indefinite"/>
   </path>
+
+  <g fill="#A9C7DA">
+    <circle cx="18" cy="36" r="3.4"/><circle cx="72" cy="26" r="4.2"/><circle cx="118" cy="60" r="4.2"/><circle cx="170" cy="74" r="3.8"/>
+    <circle cx="228" cy="48" r="3.8"/><circle cx="278" cy="106" r="3.6"/><circle cx="334" cy="88" r="3.8"/><circle cx="389" cy="44" r="4.2"/>
+    <circle cx="446" cy="66" r="3.8"/><circle cx="495" cy="28" r="4.2"/><circle cx="548" cy="58" r="4"/><circle cx="600" cy="74" r="3.8"/>
+    <circle cx="18" cy="132" r="4"/><circle cx="74" cy="122" r="3.8"/><circle cx="122" cy="144" r="4.1"/><circle cx="176" cy="102" r="3.8"/>
+    <circle cx="228" cy="110" r="3.8"/><circle cx="281" cy="138" r="3.6"/><circle cx="336" cy="120" r="3.8"/><circle cx="392" cy="136" r="3.8"/>
+    <circle cx="446" cy="114" r="3.8"/><circle cx="495" cy="126" r="3.8"/><circle cx="548" cy="92" r="4.2"/><circle cx="600" cy="104" r="3.8"/>
+  </g>
+
+  <g fill="#A9C7DA">
+    <circle cx="124" cy="70" r="4.2"><animate attributeName="opacity" values="0.35;1;0.35" dur="2.8s" repeatCount="indefinite"/></circle>
+    <circle cx="236" cy="132" r="4.2"><animate attributeName="opacity" values="0.35;1;0.35" dur="3.2s" repeatCount="indefinite"/></circle>
+    <circle cx="345" cy="69" r="4.2"><animate attributeName="opacity" values="0.35;1;0.35" dur="2.5s" repeatCount="indefinite"/></circle>
+    <circle cx="470" cy="117" r="4.2"><animate attributeName="opacity" values="0.35;1;0.35" dur="3.1s" repeatCount="indefinite"/></circle>
+  </g>
 </svg>
