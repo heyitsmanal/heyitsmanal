@@ -30,10 +30,10 @@ Core technologies I currently work with
 
 <div align="center">
 
-<img src="./assets/tool-java.svg" width="12%" alt="Java"><img src="./assets/tool-spring.svg" width="12%" alt="Spring Boot"><img src="./assets/tool-quarkus.svg" width="12%" alt="Quarkus"><img src="./assets/tool-python.svg" width="12%" alt="Python"><img src="./assets/tool-django.svg" width="12%" alt="Django"><img src="./assets/tool-react.svg" width="12%" alt="React"><img src="./assets/tool-angular.svg" width="12%" alt="Angular"><img src="./assets/tool-html.svg" width="12%" alt="HTML">
+<img src="./assets/tool-java.svg" width="10.8%" alt="Java"><img src="./assets/tool-spring.svg" width="10.8%" alt="Spring Boot"><img src="./assets/tool-quarkus.svg" width="10.8%" alt="Quarkus"><img src="./assets/tool-python.svg" width="10.8%" alt="Python"><img src="./assets/tool-django.svg" width="10.8%" alt="Django"><img src="./assets/tool-react.svg" width="10.8%" alt="React"><img src="./assets/tool-angular.svg" width="10.8%" alt="Angular"><img src="./assets/tool-html.svg" width="10.8%" alt="HTML">
 
 <br>
 
-<img src="./assets/tool-css.svg" width="12%" alt="CSS"><img src="./assets/tool-bootstrap.svg" width="12%" alt="Bootstrap"><img src="./assets/tool-postgresql.svg" width="12%" alt="PostgreSQL"><img src="./assets/tool-sqlite.svg" width="12%" alt="SQLite"><img src="./assets/tool-git.svg" width="12%" alt="Git"><img src="./assets/tool-github.svg" width="12%" alt="GitHub"><img src="./assets/tool-docker.svg" width="12%" alt="Docker"><img src="./assets/tool-kubernetes.svg" width="12%" alt="Kubernetes">
+<img src="./assets/tool-css.svg" width="10.8%" alt="CSS"><img src="./assets/tool-bootstrap.svg" width="10.8%" alt="Bootstrap"><img src="./assets/tool-postgresql.svg" width="10.8%" alt="PostgreSQL"><img src="./assets/tool-sqlite.svg" width="10.8%" alt="SQLite"><img src="./assets/tool-git.svg" width="10.8%" alt="Git"><img src="./assets/tool-github.svg" width="10.8%" alt="GitHub"><img src="./assets/tool-docker.svg" width="10.8%" alt="Docker"><img src="./assets/tool-kubernetes.svg" width="10.8%" alt="Kubernetes">
 
 </div>
